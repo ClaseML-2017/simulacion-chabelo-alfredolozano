@@ -1,2 +1,3 @@
 # simulacion-chabelo-alfredolozano
-simulacion-chabelo-alfredolozano created by GitHub Classroom
+
+Alfredo Lozano C.U. 148858
